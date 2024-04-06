@@ -1,0 +1,72 @@
+   body{
+   background-color: black;
+   }
+   
+   
+   .page{
+        display: flex;
+      
+    }
+
+    .cartao1{
+        display: flex;
+        flex-direction: column;
+        color: rgb(181, 3, 3);
+        border: solid;
+        width: 400px;
+        margin: 50px;
+        color: rgb(181, 3, 3);
+        padding: 15px;
+        
+    }
+
+    .cartao1 img{
+        width: 400px;
+        height: 300px;
+    }
+
+    
+
+
+
+
+ .cartao2{
+    display: flex;
+    flex-direction: column;
+  color: rgb(212, 191, 7);
+    border: solid;
+    width: 400px;
+    margin: 50px;
+    padding: 15px;
+ }
+
+
+ .cartao2 img{
+    width: 400px;
+    height: 300px;
+    
+
+ }
+
+
+ .cartao3{
+    display: flex;
+    flex-direction: column;
+   color: rgb(184, 109, 11);
+    border: solid;
+    width: 400px;
+    margin: 50px;
+    padding: 15px;
+ }
+
+ .cartao3 img{
+    width: 400px;
+    height: 300px;
+
+ }
+
+ .titulo h1{
+    color: #fff ;
+    text-align: center;
+ }
+ 

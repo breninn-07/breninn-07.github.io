@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'dm';
+    src: url(/public/assets/fonts/titulo.ttf);
+}
+
+@font-face {
+    font-family: 't1';
+    src: url(/public/assets/fonts/h1.ttf);
+}

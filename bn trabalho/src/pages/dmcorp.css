@@ -1,0 +1,53 @@
+.cabeçalho{
+    display: flex;
+    margin: 50px;
+    padding: 20px;
+    background-image: url(/public/assets/images/fundodm.png);
+   
+
+}
+
+.cabeçalho h1{
+    margin: 40px;
+    font-family: 'dm';
+    
+ 
+}
+
+
+.cartao1{
+
+    border: solid color(#5e111f);
+    width: 1100px;
+    margin: 90px;
+    margin-left: 200px;
+    background-color: #5e111f;
+
+
+}
+
+.cartao1 img{
+    width: 400px;
+    margin: 20px;
+    margin-left: 300px;
+
+}
+.cartao1 h1{
+    color: white;
+    font-family: 't1';
+}
+.cartao1 p{
+    color: white;
+    font-size: 20px;
+}
+
+.link{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.link a{
+    font-size: 50px;
+  color: #5e111f;
+    font-family: 't1'
+}
